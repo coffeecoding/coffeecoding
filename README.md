@@ -4,6 +4,7 @@
 - I engineer backends using **C#** and **ASP.NET Core**
 - I create Windows applications using **WPF** 
 - I design Websites and Webapps with **NextJS and React**
+- I build manage databases using **MySQL and SQLite**
 - I learn stuff on the go
 
 <!--
