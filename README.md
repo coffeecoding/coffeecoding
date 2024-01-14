@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 🍹
 
 - I make apps using **Flutter**
 - I engineer backends using **C#** and **ASP.NET Core**
