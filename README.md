@@ -7,7 +7,7 @@
 - I build manage databases using **MySQL and SQLite**
 - I learn stuff on the go
 
-Check out the [Color Tool 🌴](https://coffeecoding.github.io)
+Check out the [Color Tool](https://coffeecoding.github.io) 🌴
 
 <!--
 **coffeecoding/coffeecoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
